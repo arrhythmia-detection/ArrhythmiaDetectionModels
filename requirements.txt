@@ -19,3 +19,4 @@ tflite-support
 numpy
 scikit-learn
 pandas
+lime
