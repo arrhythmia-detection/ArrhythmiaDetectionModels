@@ -20,3 +20,4 @@ numpy
 scikit-learn
 pandas
 lime
+scipy
