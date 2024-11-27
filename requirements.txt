@@ -22,3 +22,4 @@ pandas
 lime
 scipy
 biosppy
+tqdm
